@@ -1,1 +1,1 @@
-# Rust-Cloudflare-Purge-Cache
+# Rust Cloudflare Purge Cache
